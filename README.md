@@ -11,4 +11,7 @@ It can be challenging in an unsupervised setting to train andevaluate a deep lea
   - The notebook preprocesses the data for training, defines the model, train the model and visualises the results. 
 - RNNIWAE_input_w_c_32_1_layer_0_p_k_10_step_1_beta_0.015
   - The torch state dict of the last trained model of which visualizations are made. 
+  
+  
+The code for defining the model and training the model is from week 7 in 02456 Deep Learning where it is changed to handle the Woodsense data and model. 
 
