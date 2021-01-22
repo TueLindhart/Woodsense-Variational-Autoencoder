@@ -13,5 +13,5 @@ It can be challenging in an unsupervised setting to train andevaluate a deep lea
   - The torch state dict of the last trained model of which visualizations are made. 
   
   
-The code for defining the model and training the model is from week 7 in 02456 Deep Learning where it is changed to handle the Woodsense data and model. 
+The code for defining the model and training the model is from week 7 in 02456 Deep Learning where it is modified to handle the Woodsense data and model. 
 
